@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![tryhackme stats](https://raw.githubusercontent.com/sailingnn/sailingnn/master/assets/thm_propic.png)
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/dngfng.song.png)
